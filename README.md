@@ -9,7 +9,7 @@
     Time to reveal some untold stories
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://github.com/niloysikdar/Kahani">View Demo</a>
     ·
     <a href="https://github.com/niloysikdar/Kahani/issues">Report Bug</a>
     ·
